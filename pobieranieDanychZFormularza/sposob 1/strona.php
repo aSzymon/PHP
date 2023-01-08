@@ -1,6 +1,6 @@
-// aSzymon - gtihub
-
 <?php 
+
+// aSzymon - gtihub
 
 	$nick = $_POST['tekst'];
 	$haslo = $_POST['haslo'];
