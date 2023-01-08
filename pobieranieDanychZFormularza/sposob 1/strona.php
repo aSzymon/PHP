@@ -1,3 +1,5 @@
+// aSzymon - gtihub
+
 <?php 
 
 	$nick = $_POST['tekst'];
